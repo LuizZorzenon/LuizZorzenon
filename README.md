@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-🌟 Desenvolvedor PL/SQL com paixão por bancos de dados e consultas eficientes.
+🌟 Desenvolvedor PL/SQL.
 
 🚀 Aprendendo e explorando o vasto mundo do desenvolvimento back-end, com foco em Python. Também estou me aprofundando no MongoDB.
 
