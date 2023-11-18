@@ -6,15 +6,15 @@
 
 🌟 Desenvolvedor PL/SQL.
 
-🚀 Aprendendo e explorando o vasto mundo do desenvolvimento back-end, com foco em Python. Também estou me aprofundando no MongoDB.
+🚀 Aprendendo e explorando o vasto mundo do desenvolvimento back-end, com foco em Node.js. Também estou me aprofundando no MongoDB.
 
 📚 Sempre em busca de conhecimento e desafios.
 
 ## Habilidades
 
 - 💼 PL/SQL
-- 🐍 Python(Em aprendizado)
-- 📦 MongoDB(Em aprendizado)
+- 🚀 Node.js (Em aprendizado)
+- 📦 MongoDB (Em aprendizado)
 - 💾 Bancos de Dados Relacionais
 - 🌐 Desenvolvimento Back-End
 
