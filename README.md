@@ -13,7 +13,7 @@
 ## Habilidades
 
 - 💼 PL/SQL
-- 🚀 Node.js (Em aprendizado)
+- 🐍 Python/ 🧪Flask  (Em aprendizado)
 - 📦 MongoDB (Em aprendizado)
 - 💾 Bancos de Dados Relacionais
 - 🌐 Desenvolvimento Back-End
