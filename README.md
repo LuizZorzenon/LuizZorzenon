@@ -4,23 +4,20 @@
 
 ## Sobre Mim
 
-🌟 Desenvolvedor PL/SQL.
-
-🚀 Aprendendo e explorando o vasto mundo do desenvolvimento back-end, com foco em Node.js. Também estou me aprofundando no MongoDB.
+☕ Desenvolvedor Java.
 
 📚 Sempre em busca de conhecimento e desafios.
 
 ## Habilidades
 
 - 💼 PL/SQL
-- 🐍 Python/ 🧪Flask  (Em aprendizado)
+- ☕ Java/Springboot  (Em aprendizado)
 - 📦 MongoDB (Em aprendizado)
-- 💾 Bancos de Dados Relacionais
+- 💾 Bancos de Dados Relacionais(Oracle)
 - 🌐 Desenvolvimento Back-End
 
 ## Projetos
 
-Aqui vão estar alguns projetos futuros que irei produzir:
 
 
 ## Contato
