@@ -4,16 +4,15 @@
 
 ## Sobre Mim
 
-☕ Desenvolvedor Java.
+🐍 Desenvolvedor Python.
 
 📚 Sempre em busca de conhecimento e desafios.
 
 ## Habilidades
 
 - 💼 PL/SQL
-- ☕ Java/Springboot  (Em aprendizado)
-- 📦 MongoDB (Em aprendizado)
-- 💾 Bancos de Dados Relacionais(Oracle)
+- 🐍 Python/Odoo  
+- 💾 Bancos de Dados Relacionais(Oracle/PostgreSQL)
 - 🌐 Desenvolvimento Back-End
 
 ## Projetos
