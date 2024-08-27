@@ -10,9 +10,9 @@
 
 ## Habilidades
 
-- 💼 PL/SQL
-- 🐍 Python/Odoo  
-- 💾 Bancos de Dados Relacionais(Oracle/PostgreSQL)
+- 💼 PL/SQL | PostgreSQL
+- 🐍 Python | Odoo  
+- 💾 Oracle | PostgreSQL
 - 🌐 Desenvolvimento Back-End
 
 ## Projetos
