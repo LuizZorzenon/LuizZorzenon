@@ -20,7 +20,7 @@ I'm a passionate **Python developer** specialized in **Odoo ERP**, currently stu
 
 | Project | Description |
 |--------|-------------|
-| [Filmoji](https://github.com/LuizZorzenon/filmoji) | Random movie recommendation app using TMDB API and Flutter |
+| [nyanAPI](https://github.com/LuizZorzenon/NyanAPI) | Random movie recommendation app using TMDB API and Flutter |
 | [Odoo WhatsApp Tracker](coming soon) | A system to record personal expenses in Odoo via WhatsApp message |
 
 ## 📫 How to reach me
