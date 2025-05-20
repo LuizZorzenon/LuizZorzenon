@@ -26,7 +26,7 @@ I'm a passionate **Python developer** specialized in **Odoo ERP**, currently stu
 ## 📫 How to reach me
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/luizzorzenon/)
-- 📧 Email: zorzenon.luiz@gmail.com
+- 📧 Email: luizzorzenon5@gmail.com
 
 ---
 
