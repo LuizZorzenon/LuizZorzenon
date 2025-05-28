@@ -1,33 +1,29 @@
-# 👋 Hi, I'm Luiz Zorzenon!
 
-I'm a passionate **Python developer** specialized in **Odoo ERP**, currently studying Software Development (ADS - USJT 🇧🇷). I love solving real-world problems through automation and custom systems.
+print("Luiz Zorzenon 👋")
 
-## 💻 What I work with
+💼 Trabalho atualmente na Wattio como desenvolvedor Back-End
 
-- 🔧 **Python** – backend development, automations, APIs
-- 🧠 **Odoo ERP** – module development, custom workflows, API integrations
-- 🌐 **FastAPI** – building RESTful APIs
-- 🖥️ **Flutter & Dart** – building mobile & desktop apps (UI focused)
-- 🛠️ **MongoDB, PostgreSQL** – data modeling and management
+💼 Freela na 10% Service como Desenvolvedor Flutter
 
-## 🚀 Current focus
+💡 Atualmente estudando dados em python!
 
-- Improving my portfolio with real-world projects
-- Contributing to open-source tools
-- Seeking international remote opportunities (🇺🇸🇪🇺)
-
-## 📂 Highlight Projects
-
-| Project | Description |
-|--------|-------------|
-| [nyanAPI](https://github.com/LuizZorzenon/NyanAPI) | Random movie recommendation app using TMDB API and Flutter |
-| [Odoo WhatsApp Tracker](coming soon) | A system to record personal expenses in Odoo via WhatsApp message |
-
-## 📫 How to reach me
-
-- 🌍 [LinkedIn](https://www.linkedin.com/in/luizzorzenon/)
-- 📧 Email: luizzorzenon5@gmail.com
+🏃 Próximo Passo: Estudar AWS
 
 ---
 
-⭐ Let's connect and build something great together!
+## 🚀 Tecnologias que trabalho
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Badge"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
+</p>
+
+---
+
+## 📬 Contato
+
+<p align="left">
+  <a href="mailto:luizzorzenon5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+</p>
