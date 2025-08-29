@@ -1,7 +1,7 @@
 
 print("Luiz Zorzenon 👋")
 
-💼 Trabalho atualmente na Wattio como desenvolvedor Back-End
+💼 Trabalho atualmente na Accenture como analista e desenvolvedor back-end pleno
 
 💼 Freela na 10% Service como Desenvolvedor Flutter
 
