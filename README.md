@@ -5,9 +5,9 @@ print("Luiz Zorzenon 👋")
 
 💼 Freela na 10% Service como Desenvolvedor Flutter
 
-💡 Atualmente estudando dados em python!
+💡 Buscando oportunidades 100% em flutter!
 
-🏃 Próximo Passo: Estudar AWS
+🏃 Próximo Passo: Publicar meus primeiros apps
 
 ---
 
